@@ -53,7 +53,8 @@ Struktur Kode
         showAdminMenu(): Menampilkan menu admin untuk tambah stok dan riwayat transaksi.
 
 Cara Menggunakan
-Pengguna Umum
+
+    Pengguna Umum
 
     Jalankan aplikasi.
     Pilih kategori Makanan atau Minuman dari menu samping.
@@ -62,7 +63,8 @@ Pengguna Umum
     Klik tombol Lanjutkan Pembayaran untuk memilih metode pembayaran.
     Ikuti petunjuk sesuai metode pembayaran yang dipilih.
 
-Admin
+
+    Admin
 
     Klik tombol Login Admin di sidebar.
     Masukkan username: admin dan password: password.
